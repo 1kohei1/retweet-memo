@@ -1,0 +1,3 @@
+- core: hosts code that's necessary for all platforms
+- mobile: hosts code that's for mobile. eg: React Native 
+- desktop: hosts code that's for mobile. eg: Electron

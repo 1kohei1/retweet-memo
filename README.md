@@ -1,5 +1,5 @@
 # retweet-memo
-Use retweet as memo and look them back
+Keep your retwees as memo
 
 # Features
 
